@@ -14,9 +14,9 @@
   [![Streamlit](https://img.shields.io/badge/Streamlit-1.30%2B-FF4B4B.svg?logo=streamlit&logoColor=white)](https://streamlit.io/)
   [![SQLite](https://img.shields.io/badge/SQLite-3-003B57.svg?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-  [![GitHub Stars](https://img.shields.io/github/stars/yourusername/SecureSphere-AI?style=social)](https://github.com/yourusername/SecureSphere-AI/stargazers)
-  [![GitHub Forks](https://img.shields.io/github/forks/yourusername/SecureSphere-AI?style=social)](https://github.com/yourusername/SecureSphere-AI/network/members)
-  [![GitHub Issues](https://img.shields.io/github/issues/yourusername/SecureSphere-AI)](https://github.com/yourusername/SecureSphere-AI/issues)
+  [![GitHub Stars](https://img.shields.io/github/stars/harshiniumesh/SecureSphere-AI?style=social)](https://github.com/harshiniumesh/SecureSphere-AI/stargazers)
+  [![GitHub Forks](https://img.shields.io/github/forks/harshiniumesh/SecureSphere-AI?style=social)](https://github.com/harshiniumesh/SecureSphere-AI/network/members)
+  [![GitHub Issues](https://img.shields.io/github/issues/harshiniumesh/SecureSphere-AI)](https://github.com/harshiniumesh/SecureSphere-AI/issues)
 
 </div>
 
